@@ -15,8 +15,8 @@ header {
 
 #gameCanvas {
     background-color: #000;
-    border: 4px solid #4CAF50;
-    box-shadow: 0 0 20px rgba(76, 175, 80, 0.5);
+    border: 4px solid #f9df5e;
+    box-shadow: 0 0 20px rgba(175, 152, 76, 0.5);
     display: block;
 }
 
